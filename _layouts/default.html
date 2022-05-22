@@ -19,7 +19,7 @@
         <h1>Bomee Jung</h1>
 
         {% if site.logo %}
-          <img src="https://github.com/bomeejung/bomeejung.github.io/blob/e4d8404d8b8d9ee182953eb07e24c33c7f7276be/BJung%20Headshot-Crop.jpeg" alt="BJung Headshot" />
+          <img src="{{site.logo | relative_url}}" alt="Headshot" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
