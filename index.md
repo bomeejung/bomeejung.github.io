@@ -1,5 +1,7 @@
 # Speaker Bio
 
+LinkedIn: http://bomee.com | https://linkedin.com/in/bomee
+
 ## [300 words]
 
 Bomee Jung is co-founder and Co-CEO of Cadence OneFive Inc., a public benefit corporation with a climate justice mission developing market-transforming software to enable city-scale acceleration of existing building decarbonization.
