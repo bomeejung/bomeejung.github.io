@@ -1,6 +1,6 @@
 # Speaker Bio
 
-LinkedIn: http://bomee.com | https://linkedin.com/in/bomee
+LinkedIn: [http://bomee.com](http://bomee.com)
 
 ## [300 words]
 
