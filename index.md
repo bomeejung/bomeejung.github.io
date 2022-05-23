@@ -12,8 +12,8 @@ Bomee holds a Master in City Planning degree from MIT and a Bachelor's degree in
 
 She is personally committed to making the sustainability and clean energy workforce welcoming to women and people of color. Request informational interviews at http://informational.bomee.com
 
-## [155 words]
-Bomee Jung is co-founder and Co-CEO of Cadence OneFive Inc., a public benefit corporation with a climate justice mission developing market-transforming software to enable city-scale acceleration of existing building decarbonization.
+## [150 words]
+Bomee Jung is co-founder and Co-CEO of Cadence OneFive Inc., a public benefit corporation with a climate justice mission developing market-transforming software to enable city-scale decarbonization.
 
 Since 2002, she has contributed to NYC’s climate leadership through policy and programmatic innovations. At NYCHA, the largest apartment owner in the US, she developed and led implementation of the strategic sustainability plan, including a $700 million program of energy performance contracts, a $300 million electrification program, a 25-megawatt community solar program, and the city’s first new pneumatic waste collection system in 47 years. Prior to NYCHA, she designed and led the NYC climate programs of Enterprise Community Partners, a national leader in affordable housing.
 
